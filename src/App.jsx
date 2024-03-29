@@ -12,7 +12,7 @@ const App = () => {
       <div>
          <div className="cover">
           <Button>
-          <h1>Click me</h1>
+          <h1>Click me on second branch</h1>
           </Button>
        <form className="formulaire" id="formul">
         <input onChange={handleChange} type="text" placeholder="Your Name" name="firstName" id="firstName"/>
