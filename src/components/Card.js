@@ -9,6 +9,7 @@ const Card = ({nom , age="500" }) => {
             <img src="https://w7.pngwing.com/pngs/129/292/png-transparent-female-avatar-girl-face-woman-user-flat-classy-users-icon.png"
                 alt="avatar"/>
                 <h2>{nom}</h2>
+                <h2>bla bla bla</h2>
         </div>
         <div className="info">
             <div >

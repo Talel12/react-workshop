@@ -14,6 +14,7 @@ const App = () => {
           <Button>
           <h1>Click me</h1>
           </Button>
+          <h1>hello it's me</h1>
        <form className="formulaire" id="formul">
         <input onChange={handleChange} type="text" placeholder="Your Name" name="firstName" id="firstName"/>
         <input type="text" placeholder="Profile Image" name="image"/>
